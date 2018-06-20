@@ -1,0 +1,2 @@
+export const PIZZA_LOADING = 'PIZZA_LOADING';
+export const PIZZA_LOADED = 'PIZZA_LOADED';
